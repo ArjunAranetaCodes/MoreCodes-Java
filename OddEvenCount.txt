@@ -1,0 +1,32 @@
+//Arjun C. Araneta
+//(Java Tutorial) Learn how to Program – Counting Odd and Even Numbers
+
+//https://morecodes.wordpress.com/2016/01/29/java-tutorial-learn-how-to-program-counting-odd-and-even-numbers/
+
+/*
+Write a program to count the number of even and odd numbers 
+from a series of numbers from five(5) number inputs of the user.
+*/
+
+import java.util.*;
+
+public class EvenOdd{
+	public static void main(String[]args){
+		Scanner scan = new Scanner(System.in);
+		int numInput = 0, evenCount = 0, oddCount = 0;
+
+		for(int i=0; i<5; i++){
+			System.out.print("Enter a number: ");
+			numInput = scan.nextInt();
+
+			if(numInput % 2 == 0){
+				evenCount+=1;
+			}else{
+				oddCount+=1;
+			}
+		}
+
+		System.out.println("There are: " + String.valueOf(evenCount) + " even numbers.");
+		System.out.println("There are: " + String.valueOf(oddCount) + " odd numbers.");
+	}
+}
