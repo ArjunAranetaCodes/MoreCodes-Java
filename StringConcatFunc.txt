@@ -1,0 +1,10 @@
+public class Program{
+	public static void main(String[]args){
+		PrintStrings("Hello", "World");
+	}
+
+	static void PrintStrings(String strWord1, String strWord2){
+		String strNewWord = strWord1 + " " + strWord2;
+		System.out.println(strNewWord);
+	}
+}
