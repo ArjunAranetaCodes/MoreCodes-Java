@@ -1,0 +1,15 @@
+//Arjun C. Araneta
+//more-codes.com
+//Write a Program that has function which accepts two strings then
+//returns the concatenated version. 
+
+public class Program{
+	public static void main(String[]args){
+		System.out.println(PrintStrings("Hello", "World"));
+	}
+
+	static String PrintStrings(String strWord1, String strWord2){
+		String strNewWord = strWord1 + " " + strWord2;
+		return strNewWord;
+	}
+}
