@@ -1,0 +1,21 @@
+/*
+Arjun C. Araneta
+more-codes.com
+
+Write a program that has a function that accepts a name and concatenates 
+it to "Hello ". 
+
+Output:
+
+Hello Mark
+*/
+
+public class Program{
+	public static void main(String[]args){
+		PrintHello("Mark");
+	}
+
+	static void PrintHello(String strName){
+		System.out.println("Hello " + strName);
+	}
+}
