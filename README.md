@@ -1,2 +1,2 @@
 # Java
-This repository is for java codes of my blog: https://morecodes.wordpress.com/
+This repository is for java codes of my blog: https://more-codes.com/
