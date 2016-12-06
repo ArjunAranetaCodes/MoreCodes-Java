@@ -1,0 +1,10 @@
+//Problem: Write a program that checks if the string contains all digits using Regular Expression.
+
+public class RegularExProgram{
+	public static void main(String[] args){
+		String pattern = "\\d+";
+		String value = "12a3456";
+
+		System.out.println(value.matches(pattern));
+	}
+}
