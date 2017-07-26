@@ -1,4 +1,4 @@
-'If, ElseIf, and Else Structure
+//If, ElseIf, and Else Structure
 public class if_else{
  public static void main(String[]args){
   int num1 = 1,

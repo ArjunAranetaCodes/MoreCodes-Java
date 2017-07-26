@@ -1,4 +1,4 @@
-'Switch Statement
+//Switch Statement
 public class switch_case{
  public static void main(String[]args){
   int num1 = 10;

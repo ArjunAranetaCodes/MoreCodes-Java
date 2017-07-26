@@ -1,4 +1,4 @@
-'Basic Operations
+//Basic Operations
 public class arithmetic_operations{
  public static void main(String[]args){
   System.out.println("1 + 1 = " + (1 + 1));

@@ -1,4 +1,4 @@
-'Basic Variable Implementations
+//Basic Variable Implementations
 public class variables {
  public static void main(String[] args) {
   String name = "Mark";

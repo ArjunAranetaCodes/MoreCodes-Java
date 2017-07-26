@@ -1,4 +1,4 @@
-'Variables and Input
+//Variables and Input
 import java.util.Scanner;
 public class basicinput {
  public static void main(String[] args) {

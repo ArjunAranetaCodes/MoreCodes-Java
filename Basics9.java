@@ -1,4 +1,4 @@
-'Basics of Functions
+//Basics of Functions
 public class functions{
  public static void main(String[]args){
   function1();
