@@ -1,4 +1,4 @@
-//Problem 20: (RecursioN) Write a program that outputs the
+//Problem 20: (Recursion) Write a program that outputs the
 //sum of numbers from 1 to n.
 public class Problem20{
  public static void main(String[] args){
