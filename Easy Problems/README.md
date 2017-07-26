@@ -1,5 +1,5 @@
 # MoreCodes - Java Programming Problems
-This repository is for Visual Basic codes of my blog: https://more-codes.com/
+This repository is for Java codes of my blog: https://more-codes.com/
 
 - - - -
 ### Easy Problems
